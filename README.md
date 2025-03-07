@@ -65,9 +65,7 @@ A Streamlit web application that allows users to upload PDF documents and have i
 4. Get AI-generated responses based on the PDF content
 5. Continue the conversation with follow-up questions
 
-## 📸 Screenshots
 
-*[You can add screenshots of your application here]*
 
 ## 🔮 Future Improvements
 
