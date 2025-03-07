@@ -84,11 +84,7 @@ A Streamlit web application that allows users to upload PDF documents and have i
 
 
 
-<p align="center">
-  <a href="https://github.com/pawan941394">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/pawan941394">
