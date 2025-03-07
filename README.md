@@ -1,6 +1,20 @@
 # PDF Chat Assistant with Gemini AI
 
-![Pawan Kumar's PDF Chat Assistant](https://img.shields.io/badge/Pawan%20Kumar-PDF%20Chat%20Assistant-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-Gemini%20AI-blue?style=for-the-badge&logo=google&logoColor=white" alt="Powered by Gemini AI"/>
+</p>
+
+<div align="center">
+  
+  ![GitHub stars](https://img.shields.io/github/stars/pawankumar/pdf-chat-assistant?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pawankumar/pdf-chat-assistant?style=social)
+  ![GitHub watchers](https://img.shields.io/github/watchers/pawankumar/pdf-chat-assistant?style=social)
+  
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Chat+with+your+PDF+documents;Powered+by+Gemini+AI;Created+by+Pawan+Kumar" alt="Typing SVG" />
+</p>
 
 A Streamlit web application that allows users to upload PDF documents and have interactive conversations about their content using Google's Gemini AI.
 
@@ -11,12 +25,9 @@ A Streamlit web application that allows users to upload PDF documents and have i
 - **Conversation History**: Keep track of your Q&A session with the document
 - **User-Friendly Interface**: Clean and intuitive design for seamless interaction
 
-## 🚀 Technology Stack
-
-- **Frontend**: Streamlit
-- **AI Model**: Google Gemini 2.0 Flash
-- **PDF Processing**: PyPDF2
-- **Language**: Python
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technology+Stack&lineCount=1&theme=github&line1=streamlit,Streamlit,FF4B4B;google,Gemini+AI,4285F4;python,Python,3776AB" alt="Tech Stack" />
+</p>
 
 ## 📝 Prerequisites
 
@@ -60,6 +71,10 @@ A Streamlit web application that allows users to upload PDF documents and have i
 
 ## 🔮 Future Improvements
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A641&center=true&vCenter=true&width=435&lines=More+document+formats;Enhanced+PDF+parsing;Authentication+system;Document+summarization" alt="Future Features" />
+</p>
+
 - Support for additional document formats (DOCX, TXT, etc.)
 - Enhanced PDF parsing with better handling of complex layouts
 - Authentication system for private documents
@@ -67,10 +82,20 @@ A Streamlit web application that allows users to upload PDF documents and have i
 
 ## 👨‍💻 About the Creator
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumar&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 This project was developed by Pawan Kumar. Follow me for more tech content:
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UClgbj0iYh5mqY_81CMCw25Q)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pawan941394/)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UClgbj0iYh5mqY_81CMCw25Q">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube Channel">
+  </a>
+  <a href="https://www.linkedin.com/in/pawan941394/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ## 📄 License
 
@@ -78,4 +103,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ by Pawan Kumar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
+</p>
+
+<div align="center">
+  Created with ❤️ by Pawan Kumar
+</div>
