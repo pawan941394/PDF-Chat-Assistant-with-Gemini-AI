@@ -90,7 +90,7 @@ A Streamlit web application that allows users to upload PDF documents and have i
 
 <p align="center">
   <a href="https://github.com/pawan941394">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
@@ -100,10 +100,10 @@ A Streamlit web application that allows users to upload PDF documents and have i
   </a>
 </p>
 
-This project was developed by Pawan Kumar. I specialize in a range of technologies, including:
+This project was developed by Pawan Kumar. I specialize in Python development and other technologies:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" alt="Python" height="35" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
