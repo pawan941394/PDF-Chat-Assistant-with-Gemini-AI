@@ -3,7 +3,7 @@ import google.generativeai as genai
 import PyPDF2
 import io
 # Configure Gemini API
-genai.configure(api_key="AIzaSyCGNR4nQ1HfVhBpGO4NwT7nVJIsECO13-o")
+genai.configure(api_key="your api key")
 model = genai.GenerativeModel('gemini-2.0-flash')
 
 def extract_text_from_pdf(pdf_file):
