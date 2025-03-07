@@ -88,6 +88,18 @@ A Streamlit web application that allows users to upload PDF documents and have i
   </a>
 </p>
 
+<details>
+<summary>📊 What do these GitHub stats mean?</summary>
+
+- **Stars**: Total stars received across your repositories
+- **Commits**: Number of contributions made to repositories
+- **PRs**: Pull requests you've opened
+- **Issues**: Issues you've opened
+- **Contributed to**: Repositories you've contributed to
+- **pt or % values**: Percentile rank compared to other GitHub users (higher is better)
+
+</details>
+
 <p align="center">
   <a href="https://github.com/pawan941394">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
