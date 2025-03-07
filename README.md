@@ -83,7 +83,15 @@ A Streamlit web application that allows users to upload PDF documents and have i
 ## 👨‍💻 About the Creator
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/pawan941394">
+    <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pawan941394">
+    <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophy" />
+  </a>
 </p>
 
 This project was developed by Pawan Kumar. Follow me for more tech content:
