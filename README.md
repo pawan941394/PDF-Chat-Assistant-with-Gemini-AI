@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  ![GitHub stars](https://img.shields.io/github/stars/pawankumar/pdf-chat-assistant?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawankumar/pdf-chat-assistant?style=social)
-  ![GitHub watchers](https://img.shields.io/github/watchers/pawankumar/pdf-chat-assistant?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/pawan941394/pdf-chat-assistant?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pawan941394/pdf-chat-assistant?style=social)
+  ![GitHub watchers](https://img.shields.io/github/watchers/pawan941394/pdf-chat-assistant?style=social)
   
 </div>
 
@@ -38,7 +38,7 @@ A Streamlit web application that allows users to upload PDF documents and have i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-chat-assistant.git
+   git clone https://github.com/pawan941394/pdf-chat-assistant.git
    cd pdf-chat-assistant
    ```
 
@@ -94,6 +94,9 @@ This project was developed by Pawan Kumar. Follow me for more tech content:
   </a>
   <a href="https://www.linkedin.com/in/pawan941394/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/pawan941394">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
