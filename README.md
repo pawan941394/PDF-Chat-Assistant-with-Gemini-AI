@@ -6,7 +6,6 @@
 
 <div align="center">
   
-  ![GitHub stars](https://img.shields.io/github/stars/pawan941394/pdf-chat-assistant?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/pawan941394/pdf-chat-assistant?style=social)
   ![GitHub watchers](https://img.shields.io/github/watchers/pawan941394/pdf-chat-assistant?style=social)
   
